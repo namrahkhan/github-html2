@@ -1,0 +1,30 @@
+.heading{
+    background-color: aqua;
+    color: brown;
+    border: navy 4px solid;
+    text-align: center;
+    border-radius: 50px;
+    font-family: serif;
+    font-style: oblique;
+    margin-left: 20px;
+}
+.para{
+    font-size: large;
+    font-family: serif;
+    font-style: italic;
+    margin-left: 30px;
+}
+.instructions{
+    background: rgb(158, 221, 153);
+    margin-left: 30px;
+}
+.list{
+    margin-left: 40px;
+}
+.list-item{
+    margin-left: 75px;
+    list-style-type: lower-greek;
+}
+body{
+    background-color: lemonchiffon;
+}
